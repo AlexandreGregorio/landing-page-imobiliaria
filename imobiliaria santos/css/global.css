@@ -1,0 +1,37 @@
+div {
+   margin: 0 auto; 
+   font-family: Tahoma;
+}
+
+h1 {
+   color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 {
+   color: #1c81c0;
+   font-weight: normal;
+}
+
+ h3 {
+   color: #ffffff;
+   font-size: 28px;
+   line-height: 42px;
+}
+ 
+ p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+ }
+
+ span {
+    font-weight: bold;
+ }
+
+ iframe {
+   width: 700px;
+   height: 330px;
+}
